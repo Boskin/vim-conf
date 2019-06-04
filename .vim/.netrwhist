@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/boskin/.vim/indent'
+let g:netrw_dirhist_2='/home/boskin/projects/lfsr-land/src/main/scala/tree'
+let g:netrw_dirhist_3='/home/boskin/projects/graphics-accelerator/src/main/scala/com/boskin/graphics-driver'
+let g:netrw_dirhist_4='/home/boskin/projects/lfsr-land/src/main/scala/com/boskin/shiftRegister'
+let g:netrw_dirhist_5='/home/boskin/projects/graphics-accelerator/src/main/scala/com/boskin/communications/spi'
