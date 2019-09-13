@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.prj set filetype=tcl
+au BufNewFile,BufRead *.xdc,*.prj set filetype=tcl
