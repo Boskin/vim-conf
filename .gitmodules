@@ -1,3 +1,6 @@
 [submodule ".vim/bundle/julia-vim"]
 	path = .vim/bundle/julia-vim
 	url = git://github.com/JuliaEditorSupport/julia-vim.git
+[submodule ".vim/bundle/typescript-vim"]
+	path = .vim/bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
