@@ -4,3 +4,6 @@
 [submodule ".vim/bundle/typescript-vim"]
 	path = .vim/bundle/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim.git
+[submodule ".vim/bundle/systemverilog.vim"]
+	path = .vim/bundle/systemverilog.vim
+	url = git://github.com/nachumk/systemverilog.vim
