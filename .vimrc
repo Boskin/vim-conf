@@ -14,5 +14,7 @@ set number
 set wildmenu
 " Turn off modelines
 set modeline!
+" Turn on column numbers
+set ruler
 " Turn on language-specific indentation
 filetype plugin indent on
