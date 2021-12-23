@@ -18,3 +18,6 @@ set modeline!
 set ruler
 " Turn on language-specific indentation
 filetype plugin indent on
+
+" Enable the mouse in insert, normal, and visual mode
+set mouse=inv
