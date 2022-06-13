@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.vh set filetype=verilog
+au BufNewFile,BufRead *.vt,*.vh set filetype=verilog
